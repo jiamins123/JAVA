@@ -1,0 +1,4 @@
+com\websystique\springmvc\configuration\HelloWorldConfiguration.class
+com\websystique\springmvc\configuration\HelloWorldInitializer.class
+com\websystique\springmvc\model\Student.class
+com\websystique\springmvc\controller\HelloWorldController.class
